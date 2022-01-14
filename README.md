@@ -1,2 +1,2 @@
-# fullstackopen
-A deep dive into Modern Web Development
+# Full Stack Open
+A Deep Dive into Modern Web Development
